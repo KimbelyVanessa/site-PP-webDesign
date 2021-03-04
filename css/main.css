@@ -1,0 +1,23 @@
+body {
+    width: 100%;
+    height: 100%;
+}
+
+.menu-principal {
+    width: 100%;
+    background-color: azure;
+    height: 84px;
+}
+main{
+    margin: 0 auto;
+    width: 900px;
+    /*float: left;*/
+}
+.logo{
+    position: absolute;
+    left: 30px;
+    top: 15px;
+}
+.redes-sociais{
+    display: inline-block;
+}
